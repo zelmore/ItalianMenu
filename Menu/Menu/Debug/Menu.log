@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\owner\source\repos\menu\menu\main.cpp(115): warning C4018: '<': signed/unsigned mismatch
+c:\users\owner\source\repos\menu\menu\pizza.h(43): warning C4715: 'Pizza::getPrice': not all control paths return a value
+c:\users\owner\source\repos\menu\menu\sandwhich.h(34): warning C4715: 'Sandwhich::getPrice': not all control paths return a value
+c:\users\owner\source\repos\menu\menu\bread.h(34): warning C4715: 'Bread::getPrice': not all control paths return a value
+  Menu.vcxproj -> C:\Users\Owner\source\repos\Menu\Debug\Menu.exe
